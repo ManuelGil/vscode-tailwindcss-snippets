@@ -1,8 +1,8 @@
 {
   "name": "vscode-tailwindcss-snippets",
-  "displayName": "TailwindCSS snippets",
+  "displayName": "Tailwind CSS snippets",
   "description": "This extension for Visual Studio Code adds snippets for Tailwind CSS.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "icon.jpg",
   "license": "MIT",
   "publisher": "imgildev",
@@ -20,14 +20,24 @@
     "Snippets"
   ],
   "keywords": [
+    "css framework",
     "css",
+    "design system",
+    "frontend development",
     "html",
+    "rapid prototyping",
     "snippets",
+    "tailwind snippets",
+    "tailwind ui",
     "tailwind-snippets",
     "tailwind",
     "tailwindcss-snippets",
     "tailwindcss",
-    "vscode"
+    "utility-first css",
+    "vscode snippets",
+    "vscode tailwind",
+    "vscode",
+    "web components"
   ],
   "homepage": "https://github.com/ManuelGil/vscode-tailwindcss-snippets",
   "repository": {
@@ -40,7 +50,8 @@
   "contributes": {
     "snippets": [
       {
-        "path": "./snippets/snippets.code-snippets"
+        "path": "./snippets/snippets.code-snippets",
+        "language": "html"
       }
     ]
   }
