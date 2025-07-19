@@ -63,9 +63,9 @@ The following table lists available snippet prefixes and their respective purpos
 
 ## Contributing
 
-Contributions to the Data Analyst Essential Extension Pack are welcome and appreciated. To contribute:
+Contributions to the Tailwind CSS Snippets are welcome and appreciated. To contribute:
 
-1. Fork the [GitHub repository](https://github.com/ManuelGil/vscode-data-pack).
+1. Fork the [GitHub repository](https://github.com/ManuelGil/vscode-tailwindcss-snippets).
 2. Create a new branch for your feature or fix:
 
    ```bash
@@ -75,17 +75,17 @@ Contributions to the Data Analyst Essential Extension Pack are welcome and appre
 3. Make your changes, commit them, and push to your fork.
 4. Submit a Pull Request targeting the `main` branch.
 
-Before contributing, please review the [Contribution Guidelines](https://github.com/ManuelGil/vscode-data-pack/blob/main/CONTRIBUTING.md) for coding standards, testing, and commit message conventions. If you encounter a bug or wish to request a new feature, please open an Issue.
+Before contributing, please review the [Contribution Guidelines](https://github.com/ManuelGil/vscode-tailwindcss-snippets/blob/main/CONTRIBUTING.md) for coding standards, testing, and commit message conventions. If you encounter a bug or wish to request a new feature, please open an Issue.
 
 ## Changelog
 
-For a complete list of changes, see the [CHANGELOG.md](https://github.com/ManuelGil/vscode-data-pack/blob/main/CHANGELOG.md).
+For a complete list of changes, see the [CHANGELOG.md](https://github.com/ManuelGil/vscode-tailwindcss-snippets/blob/main/CHANGELOG.md).
 
 ## Authors
 
 - **Manuel Gil** - _Owner_ - [@ManuelGil](https://github.com/ManuelGil)
 
-For a complete list of contributors, please refer to the [contributors](https://github.com/ManuelGil/vscode-data-pack/contributors) page.
+For a complete list of contributors, please refer to the [contributors](https://github.com/ManuelGil/vscode-tailwindcss-snippets/contributors) page.
 
 ## Follow Me
 
@@ -135,4 +135,4 @@ For developers who work with `.vsix` files for offline installations or distribu
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/ManuelGil/vscode-data-pack/blob/main/LICENSE) file for full details.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/ManuelGil/vscode-tailwindcss-snippets/blob/main/LICENSE) file for full details.
